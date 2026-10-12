@@ -10,11 +10,8 @@
 - INHERITANCE - 5 Types Explained as Family Tree
 - POLYMORPHISM - One Name Many Forms (One Remote, Many Actions)
 
-### 🖼️ Preview:
-[Add your 3 images here]
-
 ### 📥 Download
-- Full PDF: 
+- Full PDF: https://github.com/Irinejeba/Python-OOPS-Concepts-Made-Easy/blob/main/OOps%20final.pdf
 
 ### 💡 Why I Made This?
 OOPs is confusing when taught with textbook definitions. So I visualised it as a mushroom forest story!
